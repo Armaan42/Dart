@@ -1,0 +1,10 @@
+what is dart ?
+-> Dart is a client-optimized programming language for apps on multiple platfroms.
+
+It use on almost every platform like mobile, web, desktop, server
+
+Data-types:- numbers, strings, booleans, lists, sets, maps, runes, symbols
+
+var keyword:- A way to declare a variable without specifying its type.
+
+dynamic keyword:- In this we can its datatype.
