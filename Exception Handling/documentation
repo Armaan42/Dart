@@ -1,0 +1,17 @@
+Exection Handling: The exection of the program is termainted abnormally.
+
+
+  1. DefferedLoadException: Thrown when a deferred library fails to load.
+
+  2. FormatException: The execption is thrown when a string or some other data does not have an expected format and cannot be processed.
+
+  3. IntegerDivisionByZeroExecption: The execption is thrown when a number is divided by zero.
+
+  4. IOException: Base class for all Input-Output-related execptions.
+
+  5. IsolateSpawnException: Thrown when an isoated cannot be created.
+
+  6. OSError: An Exception holding information about an error from the operating system.
+
+  7. TimeoutException: Thrown when a scheduled timeout happens while waiting for an async result.
+
